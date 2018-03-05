@@ -1,0 +1,29 @@
+<!doctype html>
+
+<html>
+	<head>
+	
+		<title>Henri and Elijah's Weather Station</title>
+	<head>
+
+	<body bgcolor="b1e1ef"> 
+		
+	<center>
+		<h1 style = "font-family: Verdana, Arial">Henri and Elijah's Weather Station</h1>
+				
+		<h2 style = "font-family: Verdana, Arial">Temperature</h2>
+		
+		<p style = "font-family: Verdana, Arial"><strong>Celcius:</strong> {{ celcius }}</p>
+		<p style = "font-family: Verdana, Arial"><strong>Fahrenheit:</strong> {{ fahrenheit }}</p>
+
+		<h2 style = "font-family: Verdana, Arial">Humidity</h2>
+        	
+		<p style = "font-family: Verdana, Arial"><strong>Percentage:</strong> {{ humidity }}</p>
+
+        	<h2 style = "font-family: Verdana, Arial">Atmospheric Pressure</h2>
+        	
+		<p style = "font-family: Verdana, Arial"><strong>Millibars:</strong> {{ pressure }}</p>
+	<center
+
+	</body>
+</html>
