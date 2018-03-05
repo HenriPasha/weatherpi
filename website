@@ -23,7 +23,7 @@
         	<h2 style = "font-family: Verdana, Arial">Atmospheric Pressure</h2>
         	
 		<p style = "font-family: Verdana, Arial"><strong>Millibars:</strong> {{ pressure }}</p>
-	<center
+	<center>
 
 	</body>
 </html>
